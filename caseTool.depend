@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1416240384 source:c:\users\matìj\desktop\casetool\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"header.h"
+
+1416239602 c:\users\matìj\desktop\casetool\header.h
+
+1420799108 source:c:\users\student\desktop\casetool\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"CaseTool.h"
+
+1416239602 c:\users\student\desktop\casetool\header.h
+
+1420799077 source:c:\users\student\desktop\casetool\casetool.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1416308970 c:\users\student\desktop\casetool\casetool.h
+
+1417514960 source:c:\users\student\desktop\matej\casetool\casetool.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1417514921 source:c:\users\student\desktop\matej\casetool\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"CaseTool.h"
+
+1416308970 c:\users\student\desktop\matej\casetool\casetool.h
+
